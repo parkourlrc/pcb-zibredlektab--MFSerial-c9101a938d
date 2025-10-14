@@ -8,3 +8,5 @@ MFSerial Proto/.DS_Store
 Production v1.1/~Production v1.1.kicad_pcb.lck
 Production v1.1/~Production v1.1.kicad_sch.lck
 /Production/Production-backups
+*.zip
+*.bin
